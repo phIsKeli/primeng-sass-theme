@@ -3,9 +3,6 @@
     "version": "15.2.0",
     "description": "PrimeNG Sass Theme",
     "homepage": "https://primeng.org/",
-    "repository":{
-        "url":"https://github.com/phIskeli/primeng-sass-theme"
-    },
     "keywords": [
       "primeng",
       "angular",
