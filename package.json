@@ -1,10 +1,10 @@
 {
-    "name": "primeng-sass-theme",
+    "name": "@phIskeli/primeng-sass-theme",
     "version": "15.2.0",
     "description": "PrimeNG Sass Theme",
     "homepage": "https://primeng.org/",
     "repository":{
-        "url":"https://github.com/phIsKeli/primeng-sass-theme"
+        "url":"https://github.com/phIskeli/primeng-sass-theme"
     },
     "keywords": [
       "primeng",
@@ -17,7 +17,7 @@
       "bootstrap"
     ],
     "publishConfig": {
-        "registry": "https://npm.pkg.github.com/@phIsKeli"
+        "registry": "https://npm.pkg.github.com/@phIskeli"
     },
     "license": "MIT",
     "bugs": {
