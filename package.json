@@ -5,7 +5,7 @@
     "homepage": "https://primeng.org/",
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/primefaces/primeng-sass-theme.git"
+      "url": "git+https://github.com/phIsKeli/primeng-sass-theme.git"
     },
     "keywords": [
       "primeng",
@@ -20,6 +20,7 @@
     "license": "MIT",
     "bugs": {
       "url": "https://github.com/primefaces/primeng-sass-theme/issues"
-    }
+    },
+    "publish": true,
   }
   
