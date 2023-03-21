@@ -17,7 +17,7 @@
       "bootstrap"
     ],
     "publishConfig": {
-        "registry": "https://npm.pkg.github.com/phIskeli"
+        "registry": "https://npm.pkg.github.com/@phIskeli"
     },
     "license": "MIT",
     "bugs": {
